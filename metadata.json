@@ -1,0 +1,8 @@
+{
+  "name": "Let\u0027s Study",
+  "description": "Estude bastante... e utilize este aplicativo para organizar seu cronograma de estudos com lembretes diários.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
